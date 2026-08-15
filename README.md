@@ -59,6 +59,4 @@ The project can be extended with:
 - File/Database storage
 - GUI-based interface
 
----
-
 Built while learning Java and improving programming fundamentals.
